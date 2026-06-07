@@ -1,0 +1,9 @@
+[package]
+name = "mycelium-route"
+version = "0.1.0"
+description = "Biological network routing inspired by mycorrhizal networks with hyphae, nodes, nutrients, growth, and decay"
+repository = "https://github.com/SuperInstance/mycelium-route"
+license = "MIT"
+edition = "2021"
+
+[dependencies]
